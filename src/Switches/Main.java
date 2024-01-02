@@ -19,5 +19,6 @@ public class Main {
             break;
             default:System.out.println("That is not a day");
         }
+
     }
 }
